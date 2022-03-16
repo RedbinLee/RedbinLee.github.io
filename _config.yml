@@ -23,11 +23,11 @@ share:
 
 social:
   github: redbinlee
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+  #stackoverflow: ''
+  linkedin: hongbin-lee
+  #instagram: ''
+  #lastfm: ''
+  #rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
