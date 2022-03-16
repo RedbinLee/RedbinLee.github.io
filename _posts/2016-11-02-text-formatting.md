@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text formatting"
+title: "Text formatting by Pavel Makhov"
 date: 2016-11-02 16:25:06
 tags: reference
 description: Text formatting examples.

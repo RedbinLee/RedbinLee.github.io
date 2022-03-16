@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Table styles
+title: Table styles by Pavel Makhov
 date:   2018-02-09 11:07
 description: Examples of different table styles
 tags: reference

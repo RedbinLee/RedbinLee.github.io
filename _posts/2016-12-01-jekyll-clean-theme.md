@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll Dark Clean Theme"
+title: "Jekyll Dark Clean Theme by Pavel Makhov"
 date: 2016-12-01 16:25:06
 tags: reference
 description: Here I want to introduce you the dark theme for Jekyll.

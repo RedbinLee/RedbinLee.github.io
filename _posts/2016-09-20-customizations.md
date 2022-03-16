@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Customizations"
+title: "Customizations by Pavel Makhov"
 date: 2016-09-20 16:25:06
 description: Few customizations available out of the box!
 share: true
