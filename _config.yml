@@ -54,7 +54,4 @@ kramdown:
   hard_wrap: true
 
 
-timezone: Asia/Seoul
-
-
 exclude: ['README.md', 'LICENSE']
