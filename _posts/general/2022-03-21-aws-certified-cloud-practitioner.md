@@ -2,8 +2,9 @@
 layout: post
 title: AWS Certified Cloud Practitioner(AWS CCP)
 date: 2022-03-21 02:01
-tags: aws
+tags: general
 toc: true
+description: AWS CCP 자격증 취득!
 ---
 
 AWS Cloud에 대한 전반적인 이해를 도와주는 시험입니다.
