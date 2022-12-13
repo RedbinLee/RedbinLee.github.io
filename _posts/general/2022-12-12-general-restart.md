@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Restart studying django - create a project (Pokemon)
+title: Restart studying - create a project (Pokemon)
 date: 2022-12-12 21:00
 tags: general
 toc: true
