@@ -3,7 +3,7 @@ layout: post
 title: Opening
 date: 2022-03-16 04:17:00
 description: Here you'll find why I make this blog.
-tags: opening
+tags: general
 ---
 
 개발관련 공부를 한다는 것은 퍼즐을 맞춰가는 느낌과 비슷한 것 같습니다.
