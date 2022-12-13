@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Restart studying django - create a project (Pokemon)
-date: 2022-12-13 21:00
+date: 2022-12-12 21:00
 tags: general
 toc: true
 description: 다시 coding을 시작해보자.
